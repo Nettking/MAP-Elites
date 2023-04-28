@@ -1,0 +1,5 @@
+numpy
+random
+math
+csv
+operator

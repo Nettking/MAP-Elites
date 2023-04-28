@@ -1,0 +1,253 @@
+Activity Type,Type,Duration,Score,Injuries,SkillImprovement
+Running Drills,Sprints,5,26,2,10
+Running Drills,Sprints,10,4,2,6
+Running Drills,Sprints,15,8,10,0
+Running Drills,Long-distance run,10,4,2,6
+Running Drills,Long-distance run,15,8,0,2
+Running Drills,Long-distance run,20,21,9,9
+Running Drills,Hill Repeats,5,1,0,9
+Running Drills,Hill Repeats,10,26,10,2
+Running Drills,Hill Repeats,15,13,8,7
+Running Drills,Hill Repeats,20,22,9,8
+Running Drills,Interval runs,10,17,3,7
+Running Drills,Interval runs,20,25,5,9
+Running Drills,Hill repeats,30,20,6,9
+Running Drills,Stair runs,10,14,2,7
+Running Drills,Stair runs,15,21,4,9
+Running Drills,Fartlek runs,20,27,6,10
+Running Drills,Fartlek runs,30,13,3,7
+Running Drills,Tempo runs,20,23,4,8
+Running Drills,Tempo runs,30,19,2,6
+Running Drills,Suicides,10,8,4,5
+Passing Drills,Short Pass,5,26,0,3
+Passing Drills,Short Pass,10,11,7,0
+Passing Drills,Long Pass,5,12,6,3
+Passing Drills,Long Pass,10,22,8,8
+Passing Drills,Cross,5,5,8,9
+Passing Drills,Cross,10,0,6,9
+Passing Drills,Through,5,17,8,3
+Passing Drills,Through,10,25,7,8
+Passing Drills,Chip,5,12,0,9
+Passing Drills,Chip,10,16,9,7
+Passing Drills,Deep Ball,5,8,0,8
+Passing Drills,Deep Ball,10,14,8,9
+Passing Drills,Corner,5,12,6,9
+Passing Drills,Corner,10,8,8,5
+Passing Drills,Free Kick,5,9,9,1
+Passing Drills,Free Kick,10,26,8,7
+Passing Drills,Wall passes,5,12,1,5
+Passing Drills,Wall passes,10,21,5,9
+Passing Drills,One-touch passing,5,17,3,7
+Passing Drills,One-touch passing,10,24,6,9
+Passing Drills,Two-touch passing,5,13,2,5
+Passing Drills,Two-touch passing,10,18,4,8
+Passing Drills,Flicks and chips,5,7,2,4
+Passing Drills,Flicks and chips,10,16,3,7
+Passing Drills,Switching play,5,19,4,8
+Passing Drills,Switching play,10,27,6,10
+Defensive Drills,Tackling,5,1,6,9
+Defensive Drills,Tackling,10,27,1,8
+Defensive Drills,Tackling,15,7,5,8
+Defensive Drills,Intercepting,5,5,8,7
+Defensive Drills,Intercepting,10,23,7,9
+Defensive Drills,Intercepting,15,8,3,6
+Defensive Drills,Pass Rush,5,10,1,6
+Defensive Drills,Pass Rush,10,26,9,6
+Defensive Drills,Pass Rush,15,3,0,5
+Defensive Drills,Zone Coverage,5,7,2,3
+Defensive Drills,Zone Coverage,10,8,6,2
+Defensive Drills,Zone Coverage,15,12,6,9
+Defensive Drills,Covering,5,18,2,6
+Defensive Drills,Covering,10,23,4,8
+Defensive Drills,Marking,5,15,1,5
+Defensive Drills,Marking,10,26,5,9
+Defensive Drills,Shadowing,5,11,2,4
+Defensive Drills,Shadowing,10,22,6,9
+Defensive Drills,Pressing,5,8,3,4
+Defensive Drills,Pressing,10,20,4,7
+Defensive Drills,Zonal defending,5,13,2,6
+Defensive Drills,Zonal defending,10,18,3,8
+Defensive Drills,Blocking,5,10,0,4
+Defensive Drills,Blocking,10,1,8,5
+Defensive Drills,Blocking,15,27,4,9
+Defensive Drills,Footwork,5,23,3,7
+Defensive Drills,Footwork,10,18,5,10
+Defensive Drills,Footwork,15,18,9,9
+Defensive Drills,Fumble Recovery,5,20,10,5
+Defensive Drills,Fumble Recovery,10,11,1,6
+Defensive Drills,Fumble Recovery,15,6,2,2
+Defensive Drills,Defensive Formation,5,14,3,5
+Defensive Drills,Defensive Formation,10,0,2,6
+Defensive Drills,Defensive Formation,15,20,9,6
+Offensive Drills,Set Pieces,5,15,10,8
+Offensive Drills,Set Pieces,10,29,2,2
+Offensive Drills,Set Pieces,15,21,2,2
+Offensive Drills,Off-ball Movement,5,28,3,0
+Offensive Drills,Off-ball Movement,10,4,3,1
+Offensive Drills,Off-ball Movement,15,9,9,6
+Offensive Drills,Counter-attacks,5,14,2,2
+Offensive Drills,Counter-attacks,10,19,3,10
+Offensive Drills,Counter-attacks,15,7,3,5
+Offensive Drills,Crossing,5,14,1,1
+Offensive Drills,Crossing,10,27,5,1
+Offensive Drills,Crossing,15,24,8,10
+Offensive Drills,1v1,5,15,1,5
+Offensive Drills,1v1,10,25,10,10
+Offensive Drills,1v1,15,12,1,4
+Offensive Drills,Shooting,5,29,0,7
+Offensive Drills,Shooting,10,24,9,0
+Offensive Drills,Shooting,15,0,6,0
+Offensive Drills,Attacking from Flanks,5,2,5,6
+Offensive Drills,Attacking from Flanks,10,14,3,3
+Offensive Drills,Attacking from Flanks,15,11,5,10
+Offensive Drills,Pass and move,5,18,3,7
+Offensive Drills,Pass and move,10,26,6,10
+Offensive Drills,Fake shots and passes,5,14,2,6
+Offensive Drills,Fake shots and passes,10,21,4,9
+Offensive Drills,Attacking transitions,5,15,3,7
+Offensive Drills,Attacking transitions,10,23,5,9
+Offensive Drills,3v2 attacking,5,11,2,5
+Offensive Drills,3v2 attacking,10,20,4,8
+Offensive Drills,4v3 attacking,5,16,3,7
+Offensive Drills,4v3 attacking,10,25,6,10
+Agility Drills,Ladder Drill,5,22,5,0
+Agility Drills,Ladder Drill,10,9,3,10
+Agility Drills,Figure-8 runs,5,16,2,6
+Agility Drills,Figure-8 runs,10,21,4,8
+Agility Drills,Hurdle drills,5,14,3,7
+Agility Drills,Hurdle drills,10,25,5,9
+Agility Drills,Agility ladder drills,5,12,2,5
+Agility Drills,Agility ladder drills,10,19,4,8
+Agility Drills,Cone drills,5,9,1,4
+Agility Drills,Cone drills,10,17,3,7
+Agility Drills,Shuttle runs,5,13,2,6
+Agility Drills,Shuttle runs,10,23,4,9
+Warm-up Exercises,Plank hold,5,0,0,5
+Warm-up Exercises,Mountain climbers,5,18,3,7
+Warm-up Exercises,Bicycle crunches,5,12,1,6
+Warm-up Exercises,Jump rope,5,15,2,6
+Warm-up Exercises,Wall sits,5,0,0,5
+Warm-up Exercises,Bear crawl,5,0,0,5
+Warm-up Exercises,Frog jumps,5,22,3,8
+Warm-up Exercises,Skipping with high knees,5,20,3,7
+Warm-up Exercises,Shoulder taps,5,9,1,4
+Warm-up Exercises,Squat jumps,5,24,4,8
+Warm-up Exercises,Box jumps,5,0,0,5
+Warm-up Exercises,Push up to side plank,5,6,1,3
+Warm-up Exercises,Tricep dips,5,10,1,5
+Warm-up Exercises,Plank jacks,5,16,2,7
+Warm-up Exercises,Scissor kicks,5,14,2,6
+Warm-up Exercises,Jumping squats,5,23,4,8
+Warm-up Exercises,Spiderman lunges,5,19,2,7
+Warm-up Exercises,Lateral lunges,5,18,3,6
+Warm-up Exercises,Jumping jacks with a clap,5,6,1,4
+Warm-up Exercises,Side leg lifts,5,12,2,5
+Warm-up Exercises,Arm circles with weights,5,12,2,6
+Warm-up Exercises,Light jog,10,30,8,0
+Warm-up Exercises,Jumping jacks,5,4,6,9
+Warm-up Exercises,Butt kicks,5,25,10,4
+Warm-up Exercises,High knees,5,17,0,6
+Warm-up Exercises,Lunges,5,10,6,9
+Warm-up Exercises,Leg swings,5,21,2,3
+Warm-up Exercises,Arm circles,5,8,1,9
+Warm-up Exercises,Push ups,5,4,0,3
+Warm-up Exercises,Squats,5,19,1,4
+Warm-up Exercises,Burpees,5,28,5,6
+Warm-up Exercises,Jumping lunges,5,20,2,6
+Warm-up Exercises,Jumping lunges,10,24,4,8
+Warm-up Exercises,Skipping,5,16,3,7
+Warm-up Exercises,Skipping,10,21,5,9
+Warm-up Exercises,Side shuffles,5,11,2,5
+Warm-up Exercises,Side shuffles,10,20,4,8
+Warm-up Exercises,Inchworms,5,8,1,4
+Warm-up Exercises,Inchworms,10,17,3,7
+Warm-up Exercises,High kicks,5,13,2,6
+Warm-up Exercises,High kicks,10,23,4,9
+Strength Training,Barbell squats,10,5,9,6
+Strength Training,Deadlifts,10,16,3,3
+Strength Training,Bench press,10,13,8,2
+Strength Training,Dumbbell rows,10,2,8,3
+Strength Training,Military press,10,29,10,6
+Strength Training,Chin-ups,10,0,4,1
+Strength Training,Bicep curls,10,26,7,1
+Strength Training,Tricep extensions,10,14,8,5
+Strength Training,Lateral raises,10,19,8,1
+Strength Training,Squats with weights,10,23,4,8
+Strength Training,Deadlifts with weights,10,25,5,9
+Strength Training,Bench press with weights,10,22,6,10
+Strength Training,Barbell lunges,10,20,5,8
+Strength Training,Push-ups with weights,10,19,4,7
+Strength Training,Bicep curls with weights,10,18,3,6
+Strength Training,Tricep dips,10,17,2,5
+Strength Training,Plank with weight shift,10,15,1,4
+Strength Training,Jump squats,10,14,2,6
+Strength Training,Glute bridges with weights,10,12,1,5
+Strength Training,Plank,10,25,4,8
+Stretching,IT band stretch,5,15,3,7
+Stretching,Pigeon stretch,5,18,2,6
+Stretching,Lizard stretch,5,13,2,5
+Stretching,Seated spinal twist,5,8,1,4
+Stretching,Shoulder and tricep stretch,5,6,3,0
+Stretching,Wrist and forearm stretch,5,4,6,2
+Stretching,Ankle circles,5,2,2,1
+Stretching,Standing chest stretch,5,12,2,6
+Stretching,Standing quadricep stretch,5,10,2,5
+Stretching,Figure four stretch,5,12,3,6
+Stretching,Cat-cow stretch,5,6,1,3
+Stretching,Downward facing dog,5,8,2,4
+Stretching,Upward facing dog,5,8,2,4
+Stretching,Child's pose,5,10,2,5
+Stretching,Seated forward fold,5,8,2,4
+Stretching,Seated side bend,5,6,1,3
+Stretching,Eagle arms,5,4,6,2
+Stretching,Supine twist,5,10,2,5
+Stretching,Seated butterfly stretch,5,12,2,6
+Stretching,Hamstring stretch,5,6,1,7
+Stretching,Quad stretch,5,28,5,10
+Stretching,Calves stretch,5,28,3,0
+Stretching,Shoulder stretch,5,4,8,8
+Stretching,Chest stretch,5,20,1,5
+Stretching,Tricep stretch,5,4,9,0
+Stretching,Hip flexor stretch,5,11,6,9
+Stretching,Back stretch,5,2,2,1
+Stretching,Neck stretch,5,29,6,1
+Stretching,Butterfly stretch,5,28,10,2
+Stretching,Piriformis stretch,5,14,2,6
+Stretching,Piriformis stretch,10,20,4,8
+Stretching,Butterfly stretch with forward fold,5,12,3,7
+Stretching,Butterfly stretch with forward fold,10,19,5,9
+Stretching,Thread-the-needle stretch,5,10,2,5
+Stretching,Thread-the-needle stretch,10,17,4,8
+Stretching,Hip flexor and quad stretch,5,8,1,4
+Stretching,Hip flexor and quad stretch,10,15,3,7
+Stretching,Standing hamstring stretch,5,6,2,6
+Stretching,Standing hamstring stretch,10,14,4,8
+Stretching,Full Body,5,8,1,8
+Stretching,Full Body,10,20,3,9
+Stretching,Full Body,15,27,5,10
+Cardiovascular Training,Running,15,2,5,1
+Cardiovascular Training,Cycling,15,7,9,3
+Cardiovascular Training,Rowing,15,28,2,2
+Cardiovascular Training,Stair climbing,15,18,5,3
+Cardiovascular Training,Elliptical,15,7,0,8
+Cardiovascular Training,Jump rope,15,19,6,6
+Cardiovascular Training,Jumping jacks,5,0,3,7
+Cardiovascular Training,Jumping rope,5,18,2,6
+Cardiovascular Training,Jumping rope,10,25,4,8
+Cardiovascular Training,Elliptical trainer,30,22,3,7
+Cardiovascular Training,Rowing machine,30,24,5,9
+Cardiovascular Training,Stationary bike,30,20,2,5
+Cardiovascular Training,Stair stepper,30,19,4,8
+Cardiovascular Training,Sprinting,30,26,6,10
+Cardiovascular Training,Running uphill,15,28,7,9
+Cardiovascular Training,Battle ropes,5,15,2,6
+Mental Training,Meditation,10,27,0,9
+Mental Training,Yoga,30,28,0,10
+Mental Training,Visualization,5,25,0,8
+Mental Training,Affirmations,5,23,0,7
+Mental Training,Journaling,10,26,0,9
+Mental Training,Breathing exercises,5,24,0,8
+Mental Training,Gratitude practice,5,22,0,7
+Mental Training,Positive self-talk,5,21,0,7
+Mental Training,Goal-setting,5,25,0,9
+Mental Training,Time management,5,23,0,8

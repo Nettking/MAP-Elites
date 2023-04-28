@@ -1,0 +1,5 @@
+digraph "classes" {
+rankdir=BT
+charset="utf-8"
+"MAP_Elites.Workout.Workout" [color="black", fontcolor="black", label=<{Workout|activity_injury<br ALIGN="LEFT"/>activity_score<br ALIGN="LEFT"/>activity_skill_improvement<br ALIGN="LEFT"/>duration_deviation<br ALIGN="LEFT"/>main_activity_types<br ALIGN="LEFT"/>main_duration<br ALIGN="LEFT"/>main_exercises<br ALIGN="LEFT"/>stretching_duration<br ALIGN="LEFT"/>stretching_exercises<br ALIGN="LEFT"/>warmup_duration<br ALIGN="LEFT"/>warmup_exercises<br ALIGN="LEFT"/>|calculate_duration(exercises)<br ALIGN="LEFT"/>calculate_duration_deviation(exercises, expected_duration)<br ALIGN="LEFT"/>calculate_injury(exercises)<br ALIGN="LEFT"/>calculate_score(exercises)<br ALIGN="LEFT"/>calculate_skill_improvement(exercises)<br ALIGN="LEFT"/>print_details()<br ALIGN="LEFT"/>}>, shape="record", style="solid"];
+}
