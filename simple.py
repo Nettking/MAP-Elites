@@ -21,7 +21,7 @@ generator = ActivityPlanGenerator(warmup, main, stretching)
 if __name__ == '__main__':
     start_time = time.time()
     optimized_plans = generate_activity_plans(generator, 10)
-    while (time.time() - start_time) < 590:
+    while (time.time() - start_time) < 59:
         next_generation = []
         for i in range(len(optimized_plans)-1):
             plan1 = optimized_plans[i]
