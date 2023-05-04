@@ -3,7 +3,7 @@ import sys
 from Import import *
 from ActivityPlanGenerator import *
 
-
+print('Running program. Please wait for 1 minute')
 def generate_activity_plans(generator, number_of_plans):
     activity_plans = []
     for i in range(0, number_of_plans):

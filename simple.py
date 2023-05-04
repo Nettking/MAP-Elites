@@ -13,7 +13,7 @@ def generate_activity_plans(generator, number_of_plans):
 def get_best_plans(plans, number_of_plans_to_get, attribute):
     sorted_plans = sorted(plans, key=attrgetter(attribute), reverse=True)
     return sorted_plans[:int(number_of_plans_to_get)]
-
+print('Running program. Please wait for 1 minute')
 warmup, main, stretching = read_exercises()
 next_generation = []
 
