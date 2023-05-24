@@ -3,7 +3,6 @@ import sys
 from Import import *
 from ActivityPlanGenerator import *
 
-print('Running program. Please wait for 1 minute')
 def generate_activity_plans(generator, number_of_plans):
     activity_plans = []
     for i in range(0, number_of_plans):
@@ -12,7 +11,7 @@ def generate_activity_plans(generator, number_of_plans):
 
 def random_variation(random_elite1, random_elite2):
     candidate = ActivityPlanGenerator.crossover(random_elite1, random_elite2)
-    if random.random() < 0.01:
+    if random.random() < crossoverRate:
         candidate = generator.mutate(candidate)
     return candidate
 
@@ -67,17 +66,23 @@ next_generation = []
 
 generator = ActivityPlanGenerator(warmup, main, stretching) 
 if __name__ == '__main__':
+    
+    algorithmRunTime = int(input("Enter number of seconds to run MAP-Elites: "))
+    startPopulationSize = int(input("Enter size of start population (Slow for querries > 100000): "))
+    crossoverRate = float(input("Enter cross over rate: "))
+    print('Running program. Please wait for ' + str(algorithmRunTime) + ' seconds')
+    
     start_time = time.time()
     tider = []
 
     # Generate random activity plans
 
     # Place activity plans in map
-    for plan in generate_activity_plans(generator, 100000):
+    for plan in generate_activity_plans(generator, startPopulationSize):
         add_plan(plan)
 
     elapsed_time = time.time() - start_time
-    while elapsed_time < 59:
+    while elapsed_time < algorithmRunTime:
         random_elite1 = get_random_plan()
         random_elite2 = get_random_plan()
         candidate = random_variation(random_elite1, random_elite2)
@@ -88,23 +93,25 @@ if __name__ == '__main__':
 
     for score in get_n_best_funAndSafe(3):
         plan = funAndSafeDim[score]
+        #plan.print_details()
         print(f"Fun and safe score: {score}   Total score: {plan.total_score}")
 
     print(f"\nNumber of plans in highRiskHighReward dimension: {len(highRiskHighRewardDim)}")
 
     for score in get_n_best_highRiskHighReward(3):
         plan = highRiskHighRewardDim[score]
+        #plan.print_details()
         print(f"High Risk High Reward score: {score}   Total score: {plan.total_score}")
 
     print(f"\nNumber of plans in enjoyableSkillImprovement dimension: {len(enjoyableSkillImprovementDim)}")
 
     for score in get_n_best_enjoyableSkillImprovement(3):
         plan = enjoyableSkillImprovementDim[score]
+        #plan.print_details()
         print(f"Enjoyable Skill Improvement score: {score}   Total score: {plan.total_score}")
 
     # Uncomment the following to display the best plan:
-    # best = get_best_plans_total_score(elite_plans, 1)[0]
-    # best.print_details()
+
     # print(f"{elapsed_time:.2f} count: {count}  The best: {best.total_score} Number of activities: {best.total_number_of_activities}")
 
 
